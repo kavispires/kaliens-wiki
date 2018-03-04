@@ -1,0 +1,41 @@
+{
+  "0" : {
+    "name": "",
+    "kalienName": "",
+    "title": "",
+    "race": "",
+    "subrace": "",
+    "color": "",
+    "otherColors": [],
+    "age": 0,
+    "size": 0,
+    "height": 0,
+    "description": "",
+    "abilities": [],
+    "features": {
+      "eyes": 0,
+      "arms": 0,
+      "legs": 0,
+      "ears": 0,
+      "horns": 0,
+      "antennas": 0,
+      "tails": 0,
+      "wings": 0,
+      "teeth": 0,
+      "hair": "",
+      "body": ""
+    },
+    "attributes": {
+      "strength": 0,
+      "constitution": 0,
+      "defense": 0,
+      "dexterity": 0,
+      "inteligence": 0,
+      "charisma": 0,
+      "wisdom": 0,
+      "perception": 0,
+      "luck": 0,
+      "overall": 0
+    }
+  }
+}
